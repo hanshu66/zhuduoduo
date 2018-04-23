@@ -1,0 +1,15 @@
+{
+	"home":[
+      {"imges":"/static/img/banner1-iphone6.c96415c.png"},
+      {"imges":"/static/img/index-banner3.82aea7e.jpg"},
+      {"imges":"/static/img/new1.cc6662c.jpg"},
+      {"imges":"/static/img/recruitLandlord_banner.4de46dc.jpg"},
+      {"imges":"/static/img/short-rent-banner1.6cd736a.jpg"},
+	],
+	"list":[
+	  {"tu":"/static/img/index-img-list1.f3acb4c.jpg"},
+      {"tu":"/static/img/index-img-list2.b9cfa91.jpg"},
+      {"tu":"/static/img/index-img-list3.ee073a9.jpg"},
+      {"tu":"/static/img/index-img-list4.d08b5bf.jpg"}
+	]
+}
